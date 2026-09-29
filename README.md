@@ -118,16 +118,10 @@ npm install
 npm run dev
 ```
 
-### 3. Optional: Python Flask REST Server
-```bash
-# Start Flask Server (http://localhost:5000)
-python app.py
-```
 
-### 4. Optional: Node.js Express Server
-```bash
-# Start Express Server (http://localhost:3001)
-node server/server.js
+## 📄 Documentation
+
+[📘 View Project Documentation](DOCS/BSFI-FinWise_AI_Documentation_SJAH.docx)
 ```
 
 ---
