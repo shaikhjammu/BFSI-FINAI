@@ -121,7 +121,7 @@ npm run dev
 
 ## 📄 Documentation
 
-[📘 View Project Documentation](DOCS/BSFI-FinWise_AI_Documentation_SJAH.docx)
+[📘 BFSI FinWise AI Documentation](./DOCS/BSFI-FinWise-AI_Documentation_SJAH.docx)
 ```
 
 ---
