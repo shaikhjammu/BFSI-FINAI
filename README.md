@@ -122,7 +122,8 @@ npm run dev
 ## 📄 Documentation
 
 
-[📄 View FinAI Documentation](\(https\://docs.google.com/gview?embedded=1&url=https\://raw\.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation\.pdf))
+[📄 View FinAI Documentation](https://raw.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf)
+
 
 
 
