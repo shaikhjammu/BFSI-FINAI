@@ -121,7 +121,7 @@ npm run dev
 
 ## 📄 Documentation
 
-<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-FinAI-Documentation.docx" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
+<a href="https://raw.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
 
 ---
 
