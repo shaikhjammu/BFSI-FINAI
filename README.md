@@ -121,8 +121,15 @@ npm run dev
 
 ## 📄 Documentation
 
-[📘 View Project Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-%20FinAI%20Documentation.docx)
-```
+Choose your preferred way to read the full project documentation:
+
+| Format | Access Link | Best For |
+| :--- | :--- | :--- |
+| 📱 **Full Documentation (Markdown)** | [📖 View Online in GitHub](Docs/DOCUMENTATION.md) | **Recommended for Mobile & Web** (Instant load, zero errors) |
+| 📑 **Official Document (PDF)** | [📄 View / Download PDF](Docs/BFSI-FinAI-Documentation.pdf) | Native mobile & desktop PDF preview with full formatting |
+| 📥 **Word Document (.docx)** | [💾 Download .docx Document](Docs/BFSI-%20FinAI%20Documentation.docx) | Offline editing in MS Word / Office |
+| 🌐 **Google Docs Cloud Viewer** | [🔍 View in Google Docs Viewer](https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-%20FinAI%20Documentation.docx) | Universal mobile-friendly browser preview |
+| 🖥️ **Microsoft Office Online** | [📘 View in Office Web Viewer](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-%20FinAI%20Documentation.docx) | Desktop browsers *(May hang or show blank on mobile)* |
 
 ---
 
