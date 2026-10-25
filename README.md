@@ -123,6 +123,9 @@ npm run dev
 
 <a href="https://raw.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
 
+- [📱 View FinWise Documentation (PDF)](https://github.com/shaikhjammu/FSI-FINWISE-AI/blob/main/docs/BFSI-FinAI-Documentation.pdf)
+- [📝 Open Word Documentation](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/shaikhjammu/FSI-FINWISE-AI/main/docs/BFSI-FinAI-Documentation.docx)
+
 ---
 
 ## 📄 License
