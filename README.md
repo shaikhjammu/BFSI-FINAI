@@ -121,9 +121,7 @@ npm run dev
 
 ## 📄 Documentation
 
-- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-FinAI-Documentation.docx" target="_blank" rel="noopener noreferrer">📘 View in Microsoft Office</a>
-- <a href="https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-FinAI-Documentation.docx" target="_blank" rel="noopener noreferrer">🌐 View in Google Docs Viewer</a>
-- <a href="https://raw.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF (Direct / No Login)</a>
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fshaikhjammu%2FBFSI-FINAI%2Fmain%2FDocs%2FBFSI-FinAI-Documentation.docx" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
 
 ---
 
