@@ -121,7 +121,15 @@ npm run dev
 
 ## 📄 Documentation
 
-<a href="https://raw.githubusercontent.com/shaikhjammu/BFSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
+
+<a
+  href="https://raw.githubusercontent.com/shaikhjammu/FSI-FINAI/main/Docs/BFSI-FinAI-Documentation.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  📄 View Full FinAI Documentation
+</a>
+
 
 
 ---
