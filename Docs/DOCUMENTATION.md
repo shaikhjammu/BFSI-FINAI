@@ -1,8 +1,6 @@
 # 🏦 FinAI : AI-Powered Personal Finance & Wealth Advisor
 ### Comprehensive Project Documentation
 
-> 📥 **Downloads:** [📄 Download Official PDF](BFSI-FinAI-Documentation.pdf) &nbsp;|&nbsp; [💾 Download Word Document (.docx)](BFSI-%20FinAI%20Documentation.docx)
-
 ---
 
 ### 🏛️ Academic Information

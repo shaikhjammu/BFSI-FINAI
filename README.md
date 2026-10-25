@@ -121,7 +121,7 @@ npm run dev
 
 ## 📄 Documentation
 
-[📘 View Full Documentation](Docs/DOCUMENTATION.md)
+<a href="https://github.com/shaikhjammu/BFSI-FINAI/blob/main/Docs/DOCUMENTATION.md" target="_blank" rel="noopener noreferrer">📘 View Full Documentation</a>
 
 ---
 
